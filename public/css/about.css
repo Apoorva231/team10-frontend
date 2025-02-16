@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: white;
+  }
+  .containor{
+    width: 90%;
+    max-width: 50rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+    padding: 1rem;
+    border-radius: 12px;
+    text-align: center;
+    background-color: white;
+  }
+.bigger{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #912338;
+}
